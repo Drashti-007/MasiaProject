@@ -1,7 +1,15 @@
-# Personal Expense Tracker
-This project is a console-based application designed to help individual manage their daily expenses efficiently.Whether it's tracking your spending or summarizing your expenses by month, this program has you covered.
-# Features
-It include several features like adding an expense, viewing all expense, deleting an expense, and generating a monthly summary.
+# 💰 Personal Expense Tracker
+
+A simple console-based Python application to help you manage your daily expenses efficiently.  
+Track, review, and analyze your spending habits — all from your terminal.
+
+## Features
+
+- **Add Expense** — Record new expenses with date, category, amount, and description.  
+- **View Expenses** — Display all recorded expenses in a clean, formatted view.  
+- **Delete Expense** — Remove any expense by selecting its entry number.  
+- **Monthly Summary** — View total spending for a chosen month and year.  
+- **Persistent Storage** — All expenses are saved to a text file for future use.
 
 **Main Feature**:
   
@@ -13,7 +21,7 @@ It include several features like adding an expense, viewing all expense, deletin
   
   *4. Monthly_summary: This calculates and displays the total expenses for a specific month and year.*
 
-# How to Run
+## How to Run
 **1. Adding an Expense:** To add an expense, the user have to select (1) as an option. Then user have to enter the date, category, amount, and an optional description. The program saves this data in a text file.
 
 **2. Viewing Expenses:** When user selects (2) as an option. User can see the program lists all expenses with details.(if file contain the data) 
@@ -24,5 +32,12 @@ It include several features like adding an expense, viewing all expense, deletin
 
 **5. Exiting the Program:** When user selects (5) as an option. It will end the program successfully.
 
-# Conclusion
+## Conclusion
 Personal Expense Tracker is a simple yet effective tool foe managing expenses. It allows users to record, review, and analyze their spending habits easily. 
+
+## 🧠 Technologies Used
+- Python 3
+- File Handling
+- DateTime module
+- Jupyter Notebook
+

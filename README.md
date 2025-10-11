@@ -25,7 +25,7 @@ Track, review, and analyze your spending habits — all from your terminal.
 ## Conclusion
 Personal Expense Tracker is a simple yet effective tool foe managing expenses. It allows users to record, review, and analyze their spending habits easily. 
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python 3
 - File Handling
 - DateTime module

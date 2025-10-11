@@ -11,16 +11,6 @@ Track, review, and analyze your spending habits — all from your terminal.
 - **Monthly Summary** — View total spending for a chosen month and year.  
 - **Persistent Storage** — All expenses are saved to a text file for future use.
 
-**Main Feature**:
-  
-  *1. Add_expenses: This function takes user input for the date, category, amount, and description to add a new expense.*
-  
-  *2. View_expenses: This function displays all recorded expenses in a neat formate.*
-  
-  *3. Delete_expenses: This allows users to remove an entry by seleting it's number.*
-  
-  *4. Monthly_summary: This calculates and displays the total expenses for a specific month and year.*
-
 ## How to Run
 **1. Adding an Expense:** To add an expense, the user have to select (1) as an option. Then user have to enter the date, category, amount, and an optional description. The program saves this data in a text file.
 

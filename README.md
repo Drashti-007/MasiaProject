@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker
+# Personal Expense Tracker
 
 A simple console-based Python application to help you manage your daily expenses efficiently.  
 Track, review, and analyze your spending habits — all from your terminal.
